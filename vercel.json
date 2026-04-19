@@ -1,16 +1,10 @@
 {
   "routes": [
-<<<<<<< HEAD
     { "handle": "filesystem" },
-=======
->>>>>>> 48094bd706eac2229b5386bb6c9b5400db939f1e
     {
       "src": "/(.*)",
       "dest": "/index.html"
     }
   ]
-<<<<<<< HEAD
 }
-=======
 }
->>>>>>> 48094bd706eac2229b5386bb6c9b5400db939f1e
